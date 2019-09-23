@@ -1,0 +1,7 @@
+com/mycompany/product/ProductService.class
+com/mycompany/product/exception/BadRequestException.class
+com/mycompany/product/entity/Product.class
+com/mycompany/product/dao/ProductRepository.class
+com/mycompany/product/ProductClient.class
+com/mycompany/product/exception/GlobalControllerExceptionHandler.class
+com/mycompany/product/ProductSpringApp.class
